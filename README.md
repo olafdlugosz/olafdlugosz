@@ -1,4 +1,4 @@
-✨  I'm a fullstack .NET Developer currently building working .NET Core and Aurelia project for the Swedish Radio.
+✨  I'm a fullstack .NET Developer currently building working on a .NET Core and Aurelia project for the Swedish Radio.
 Let me know you have any cool open source projects I could contribute to on weekends. =) ✨ 
 
 <!---
